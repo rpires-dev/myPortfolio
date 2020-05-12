@@ -113,6 +113,10 @@ textarea.form-control {
   -o-transition: .3s all ease;
   transition: .3s all ease;
 }
+.progress-wrap{
+
+  margin-top: 20px;
+}
 
 .site-menu ul > li.is-show {
   visibility: visible;
